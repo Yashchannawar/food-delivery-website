@@ -1,4 +1,4 @@
-# React + Vite
+ # React + Vite
 
 This is Food Delivery Website using React.js.
 
@@ -24,7 +24,7 @@ bun dev
 # Run the server on :
  http://localhost:5173
  
-# Used Following libraries they are websitento directly import on our Project to better way run :-
+# Used Following libraries they are website to directly import on our Project to better way run :-
 
 # Tailwind CSS Website -:
 https://tailwindcss.com/
